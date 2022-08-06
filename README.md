@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estou aprendendo sobre GML(GameMaker Language)
+- 🌱 Estou aprendendo sobre GML(GameMaker Language), PHP e JavaScript
 - 😄 Pronomes: Ele/Dele
 - ⚡ Celeste e Terraria são meus jogos favoritos
 
