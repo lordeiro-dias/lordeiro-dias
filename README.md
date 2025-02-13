@@ -1,11 +1,5 @@
 ### Olá! Me chamo Eduardo Lordeiro
 
-
-
-- 🌱 Estou aprendendo sobre GML(GameMaker Language), PHP e JavaScript
-- 😄 Pronomes: Ele/Dele
-- ⚡ Celeste e Terraria são meus jogos favoritos
-
 <div align="center">
   <a href="https://github.com/lordeiro-dias">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lordeiro-dias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
