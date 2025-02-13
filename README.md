@@ -1,5 +1,9 @@
 ### Olá! Me chamo Eduardo Lordeiro
 
+- 💻 Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Paulo Antonio Skaf.
+- 💬 Meu nome é Eduardo Borges Lordeiro Dias e tenho 19 anos.
+- 📫 Como me contatar: eduborgesbldias@gmail.com
+
 <div align="center">
   <a href="https://github.com/lordeiro-dias">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lordeiro-dias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
