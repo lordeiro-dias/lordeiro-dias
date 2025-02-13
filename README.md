@@ -4,11 +4,12 @@
 - 💬 Meu nome é Eduardo Borges Lordeiro Dias e tenho 19 anos.
 - 📫 Como me contatar: eduborgesbldias@gmail.com
 
-<div align="center">
-  <a href="https://github.com/lordeiro-dias">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lordeiro-dias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lordeiro-dias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+#### Linguagens:
+<div>
+  <img align="center" alt="Lordeiro-HTML" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Lordeiro-CSS" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Lordeiro-Js" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+<div/>
 
 ##
 
