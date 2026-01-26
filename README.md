@@ -1,7 +1,7 @@
 ### Olá! Me chamo Eduardo Lordeiro
 
 - 💻 Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Paulo Antonio Skaf.
-- 💬 Meu nome é Eduardo Borges Lordeiro Dias e tenho 19 anos.
+- 💬 Meu nome é Eduardo Borges Lordeiro Dias e tenho 20 anos.
 - 📫 Como me contatar: eduborgesbldias@gmail.com
 
 #### Linguagens:
