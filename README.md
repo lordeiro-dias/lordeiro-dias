@@ -9,6 +9,7 @@
   <img align="center" alt="Lordeiro-HTML" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Lordeiro-CSS" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Lordeiro-Js" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Lordeiro-C#" height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSharp.svg">
 <div/>
 
 ##
